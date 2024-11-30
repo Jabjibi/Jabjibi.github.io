@@ -30,3 +30,5 @@
 ### 📚 **Resources**
 - [Description](description.md)
 - [Pla](https://jis03.github.io)
+
+[cat](https://cdn3.emoji.gg/emojis/3240-cat-typing.gif)
