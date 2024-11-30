@@ -1,6 +1,6 @@
 
-<h1 align="center">Hi 👋, I'm Jabjibi</h1>
-<h3 align="center">A passionate frontend developer from Thai</h3>
+# Hi 👋, I'm Jabjibi
+# I'm studying at Kasetsart University, Sriricha Campus. 
 
 <img align="center" src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" alt="Alt Text">
 
