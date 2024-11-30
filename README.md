@@ -7,12 +7,12 @@ I'm currently studying at **Kasetsart University, Sriricha Campus**. I'm passion
 - **Next.js**
 - Building responsive and user-friendly web applications
 
-#
+---
 
 ### 📫 **How to Reach Me**
 - Email: **tanapon081261@gmail.com**
 
-#
+---
 
 ### 🌐 **Connect with Me**
 <p align="left">
@@ -24,7 +24,7 @@ I'm currently studying at **Kasetsart University, Sriricha Campus**. I'm passion
   </a>
 </p>
 
-#
+---
 
 ### 🛠️ **Languages and Tools**
 <p>
