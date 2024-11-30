@@ -18,7 +18,7 @@
 
 ### 🌐 **Connect with Me**
 - [Instagram](https://instagram.com/jjab_bb)
-- [Discord](https://discord.gg/568032456498872352)
+- [Discord](https://discord.gg/myricesohot)
 
 ---
 
