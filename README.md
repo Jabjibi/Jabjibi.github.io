@@ -1,6 +1,6 @@
 
 # Hi 👋, I'm Jabjibi
-> I'm studying at Kasetsart University, Sriricha Campus. 
+I'm studying at Kasetsart University, Sriricha Campus. 
 
 <img align="center" src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" alt="Alt Text">
 
