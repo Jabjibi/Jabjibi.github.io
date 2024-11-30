@@ -1,9 +1,7 @@
 # Hi 👋, I'm Jabjibi
 I'm currently studying at **Kasetsart University, Sriricha Campus**. I'm passionate about web development and always excited to learn new technologies!
 
-<p align="center">
-  <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" alt="Coding GIF" width="300"/>
-</p>
+![Profile Image](./image_readme/image_me.jpg)
 
 ### 🌱 **What I'm Learning**
 - **Next.js**
