@@ -1,5 +1,5 @@
 # Hi 👋, I'm Jabjibi
-### **About me**
+ ###  **About me** ![emo](https://cdn3.emoji.gg/emojis/76975-genshin-impact-mona-dance.gif)
   I'm currently studying at **Kasetsart University, Sriricha Campus**. I'm passionate about web development and always excited to learn new technologies!
 
 ![Profile Image](./image_readme/image_me.jpg)
