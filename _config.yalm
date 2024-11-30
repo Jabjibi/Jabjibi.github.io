@@ -1,3 +1,1 @@
-theme: minima
-title: "Jabjibi's Portfolio"
-description: "A personal website built with GitHub Pages"
+theme: jekyll-theme-hacker
