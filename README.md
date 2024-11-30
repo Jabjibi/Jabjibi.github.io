@@ -31,4 +31,4 @@
 - [Description](description.md)
 - [Pla](https://jis03.github.io)
 
-[cat](https://cdn3.emoji.gg/emojis/3240-cat-typing.gif)
+![cat](https://media.tenor.com/wht0_M71CxsAAAAi/milkie-spin-milkie-vt.gif)
