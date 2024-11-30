@@ -11,6 +11,7 @@ I'm currently studying at **Kasetsart University, Sriricha Campus**. I'm passion
 
 ### 📫 **How to Reach Me**
 - Email: **tanapon081261@gmail.com**
+- Team: **tanapon.yu@ku.th**
 
 ---
 
@@ -41,9 +42,8 @@ I'm currently studying at **Kasetsart University, Sriricha Campus**. I'm passion
 ---
 
 ### 📊 **GitHub Stats**
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jabjibi&theme=dracula" alt="Jabjibi's Streak Stats" />
-</p>
+
 
 
 
