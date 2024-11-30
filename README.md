@@ -44,9 +44,6 @@ I'm currently studying at **Kasetsart University, Sriricha Campus**. I'm passion
 ### 📊 **GitHub Stats**
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jabjibi&theme=dracula" alt="Jabjibi's Streak Stats" />
 
-
-
-
 ---
 
 ### 📚 **Resources**
