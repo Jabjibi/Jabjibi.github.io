@@ -1,5 +1,5 @@
 # Hi 👋, I'm Jabjibi
-I'm currently studying at **Kasetsart University, Sriricha Campus**. I'm passionate about web development and always excited to learn new technologies!
+- I'm currently studying at **Kasetsart University, Sriricha Campus**. I'm passionate about web development and always excited to learn new technologies!
 
 ![Profile Image](./image_readme/image_me.jpg)
 
