@@ -2,8 +2,7 @@
 <h1 align="center">Hi 👋, I'm Jabjibi</h1>
 <h3 align="center">A passionate frontend developer from Thai</h3>
 
-<div align="center">
-  <img align="center" src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" alt="Alt Text">
+<img align="center" src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" alt="Alt Text">
 
 
 - 🌱 I’m currently learning **Next.js**
