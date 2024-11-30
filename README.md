@@ -17,14 +17,8 @@
 ---
 
 ### 🌐 **Connect with Me**
-<p align="left">
-  <a href="https://instagram.com/jjab_bb" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge" />
-  </a>
-  <a href="https://discord.gg/พี่พูดได้ไหม" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge" />
-  </a>
-</p>
+-[Instagram](https://instagram.com/jjab_bb)
+-[Discord](https://discord.gg/568032456498872352)
 
 ---
 
