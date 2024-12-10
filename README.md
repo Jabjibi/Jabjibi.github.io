@@ -22,11 +22,6 @@
 
 ---
 
-### 📊 **GitHub Stats**
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jabjibi&theme=dracula" alt="Jabjibi's Streak Stats" />
-
----
-
 ### 📚 **Resources**
 - [Description](description.md)
 - [Pla](https://jis03.github.io)
