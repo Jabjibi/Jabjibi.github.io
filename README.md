@@ -23,7 +23,7 @@
 ---
 
 ### 📚 **Resources**
-- [Description](description.md)
+- [Description Smurf](smurf.md)
 - [Pla](https://jis03.github.io)
 
 ![cat](https://media.tenor.com/wht0_M71CxsAAAAi/milkie-spin-milkie-vt.gif)
