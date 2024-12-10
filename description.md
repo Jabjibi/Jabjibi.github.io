@@ -7,7 +7,7 @@ ICMP Echo Request sent to the network broadcast address of a spoofed victim caus
 
 ---
 
-###  1.2 ChatGPT
+### 1.2 ChatGPT
 
   เป็นรูปแบบการโจมตีเครือข่ายที่ใช้ประโยชน์จาก ICMP (Internet Control Message Protocol) เพื่อสร้างปริมาณข้อมูลมหาศาลโจมตีเป้าหมาย ทำให้ระบบหรือเครือข่ายของเป้าหมายล่มหรือทำงานช้าลง (Denial of Service - DoS)
 
@@ -21,21 +21,21 @@ ICMP Echo Request sent to the network broadcast address of a spoofed victim caus
 
 ### 2.1 kaspersky
 
-    A Smurf attack is a form of a distributed denial of service (DDoS) attack that renders computer networks inoperable. The Smurf program accomplishes this by exploiting vulnerabilities of the Internet Protocol (IP) and Internet Control Message Protocols (ICMP).
+  A Smurf attack is a form of a distributed denial of service (DDoS) attack that renders computer networks inoperable. The Smurf program accomplishes this by exploiting vulnerabilities of the Internet Protocol (IP) and Internet Control Message Protocols (ICMP).
     
-[kaspersky](https://www.kaspersky.com/resource-center/definitions/what-is-a-smurf-attack)
+
 
 ---
 
 ### 2.2 ChatGPT
 
-     Smurf Attack คือรูปแบบหนึ่งของการโจมตีแบบ Distributed Denial of Service (DDoS) ที่ทำให้เครือข่ายคอมพิวเตอร์ไม่สามารถทำงานได้ตามปกติ การโจมตีนี้ใช้ประโยชน์จากช่องโหว่ของ Internet Protocol (IP) และ Internet Control Message Protocol (ICMP)
+  Smurf Attack คือรูปแบบหนึ่งของการโจมตีแบบ Distributed Denial of Service (DDoS) ที่ทำให้เครือข่ายคอมพิวเตอร์ไม่สามารถทำงานได้ตามปกติ การโจมตีนี้ใช้ประโยชน์จากช่องโหว่ของ Internet Protocol (IP) และ Internet Control Message Protocol (ICMP)
 
 ---
 
 ### 2.3 Gemini
 
-     การโจมตี Smurf เป็นรูปแบบหนึ่งของการโจมตีแบบปฏิเสธการให้บริการแบบกระจาย (DDoS: Distributed Denial of Service) ที่ทำให้เครือข่ายคอมพิวเตอร์ไม่สามารถใช้งานได้ โปรแกรม Smurf ทำเช่นนี้โดยการใช้ประโยชน์จากช่องโหว่ของโปรโตคอลอินเทอร์เน็ต (IP) และโปรโตคอลข้อความควบคุมอินเทอร์เน็ต (ICMP)
+  การโจมตี Smurf เป็นรูปแบบหนึ่งของการโจมตีแบบปฏิเสธการให้บริการแบบกระจาย (DDoS: Distributed Denial of Service) ที่ทำให้เครือข่ายคอมพิวเตอร์ไม่สามารถใช้งานได้ โปรแกรม Smurf ทำเช่นนี้โดยการใช้ประโยชน์จากช่องโหว่ของโปรโตคอลอินเทอร์เน็ต (IP) และโปรโตคอลข้อความควบคุมอินเทอร์เน็ต (ICMP)
 
 ---
 
