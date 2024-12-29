@@ -1,2 +1,6 @@
 title: Profile my page
 theme: jekyll-theme-architect
+
+style: 
+  primary-color: "#b22222"
+  background-color: "#f5f5dc"
