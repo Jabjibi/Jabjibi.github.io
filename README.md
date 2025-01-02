@@ -24,6 +24,7 @@
 
 ### 📚 **Resources**
 - [Description Smurf](smurf.md)
+- [Description Uniqueness](uniqueness.md)
 - [Pla](https://jis03.github.io)
 - [e-card](e-card.md)
 
