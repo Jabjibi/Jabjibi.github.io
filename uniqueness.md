@@ -1,6 +1,6 @@
 # Data Quality: Uniqueness
 
-## Definition by Hevo Academy
+## Definition by [Hevo academy](https://hevoacademy.com/data-quality/what-is-data-quality/)
 
 > **Uniqueness**: Since each entity in unique data appears once, this kind of data reduces redundancies, inconsistencies, and errors. I was thinking that when the same customer is in the two lists, there is confusion that ensues making work complicated.
 
