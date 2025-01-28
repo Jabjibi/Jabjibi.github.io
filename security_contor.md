@@ -6,7 +6,6 @@
 
 ## Types of Security Controls: **Logical Control**
 ## Control Function: **Preventive**
-
 ---
 
 ## 🔑 Key Features of OTP:
