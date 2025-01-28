@@ -1,4 +1,4 @@
-# 🔐 Security Control
+# 🔐 Ex. Security Controls in Daily Life
 ## Location: การยืนยันตัวตนในการเข้าสู่ระบบ Steam
 
 ![Image-steam](image_readme/login_steams.png)
