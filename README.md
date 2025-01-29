@@ -28,6 +28,6 @@
 - [Pla](https://jis03.github.io)
 - [e-card](e-card.md)
 - [my-work](mywork.md)
-- [Security-Control](security_control.md)
+- [Security-Control](security-control.md)
 
 ![cat](https://media.tenor.com/wht0_M71CxsAAAAi/milkie-spin-milkie-vt.gif)
