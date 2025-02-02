@@ -32,7 +32,7 @@
 | 🌲 **Holiday E-Card** | Christmas & Happy New Year | [e-Card](e-card.md) |  
 | 🔐 **Security-Control** | Security Control Overview | [Security-Control](security-control.md) |  
 | 🎮 **Boardgame** | NCSA's Boardgame | [Boardgame](boardgame.md) |  
-| 🗳️ **PAO Election** | Samutprakan PAO Election 2025 | [PAO]() |  
+| 🗳️ **PAO Election** | Samutprakan PAO Election 2025 | [PAO Elections](pao-elections) |  
 | 💼 **Project I Have Done** | Project link storage area | [My Work](mywork.md) |  
 
 
