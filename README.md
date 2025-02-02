@@ -24,15 +24,16 @@
 
 ### 📚 **Resources**
 
-|Section|Description|Link|
-|---|---|---|
-|InfoSysSec Glossary|Smurf|[Description Smurf](smurf.md)|
-|Data Quality|Data Uniqueness|[Description Uniqueness](uniqueness.md)|
-|My friend|Friend who work together InfoSysSec Glossary|[Pla](https://jis03.github.io)|
-|Holiday E-Card|Christmas & Happy new year|[e-card](e-card.md)|
-|Security-Control|Security Control Overview|[Security-Control](security-control.md)|
-|Boardgame|NCSA's Boardgame|[Boardgame](boardgame.md)|
-|Project I have done|Project link storage area|[my-work](mywork.md)|
+| 📂 **Section** | 📝 **Description** | 🔗 **Link** |  
+|---|---|---|  
+| 👾 **InfoSysSec Glossary** | การโจมตีแบบ Smurf | [📖 Description Smurf](smurf.md) |  
+| 📊 **Data Quality** | ความเป็นเอกลักษณ์ของข้อมูล (Data Uniqueness) | [📖 Description Uniqueness](uniqueness.md) |  
+| 👫 **My Friend** | เพื่อนที่ทำงานร่วมกันใน InfoSysSec Glossary | [🌐 Pla](https://jis03.github.io) |  
+| 🎉 **Holiday E-Card** | ส.ค.ส. คริสต์มาส & ปีใหม่ | [📜 e-Card](e-card.md) |  
+| 🛡️ **Security-Control** | ภาพรวมของ Security Control | [🔍 Security-Control](security-control.md) |  
+| 🎲 **Boardgame** | บอร์ดเกมจาก NCSA | [🎮 Boardgame](boardgame.md) |  
+| 💼 **Project I Have Done** | พื้นที่เก็บลิงก์โปรเจกต์ของฉัน | [🔗 My Work](mywork.md) |  
+
 
 
 
