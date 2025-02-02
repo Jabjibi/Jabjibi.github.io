@@ -23,13 +23,18 @@
 ---
 
 ### 📚 **Resources**
-- [Description Smurf](smurf.md)
-- [Description Uniqueness](uniqueness.md)
-- [Pla](https://jis03.github.io)
-- [e-card](e-card.md)
-- [my-work](mywork.md)
-- [Security-Control](security-control.md)
-- [Boardgame](boardgame.md)
+
+|Section|Description|Link|
+|---|---|---|
+|InfoSysSec Glossary|Smurf|[Description Smurf](smurf.md)|
+|Data Quality|Data Uniqueness|[Description Uniqueness](uniqueness.md)|
+|My friend|Friend who work together InfoSysSec Glossary|[Pla](https://jis03.github.io)|
+|Holiday E-Card|Christmas & Happy new year|[e-card](e-card.md)|
+|Security-Control|Security Control Overview|[Security-Control](security-control.md)|
+|Boardgame|NCSA's Boardgame|[Boardgame](boardgame.md)|
+|Project I have done|Project link storage area|[my-work](mywork.md)|
+
+
 
 
 ![cat](https://media.tenor.com/wht0_M71CxsAAAAi/milkie-spin-milkie-vt.gif)
