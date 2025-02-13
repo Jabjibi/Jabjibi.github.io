@@ -33,6 +33,7 @@
 | 🔐 **Security-Control** | Security Control Overview | [Security-Control](security-control.md) |  
 | 🎮 **Boardgame** | NCSA's Boardgame | [Boardgame](boardgame.md) |  
 | 🗳️ **PAO Election** | Samutprakan PAO Election 2025 | [PAO Elections](pao-elections.md) |  
+| 🗳️ **Security-requirments** | V2.1 Password Security | [Security-requirments.md](security-requirments.md) |  
 | 💼 **Project I Have Done** | Project link storage area | [My Work](mywork.md) |  
 
 
